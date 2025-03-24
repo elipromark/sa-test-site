@@ -1,6 +1,2 @@
 name = "sa-test-site"
 compatibility_date = "2025-03-24"
-
-[site]
-bucket = "./dist"
-entry-point = "workers-site"
